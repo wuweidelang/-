@@ -1,8 +1,8 @@
 ## 欢迎来到狼窝~
 
-You can use the [editor on GitHub](https://github.com/wuweidelang/-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+QQ群（只是很单纯的讨论而已）：485488508
+<br>
+敲门砖随意输个文中出现的人名即可~
 
 ### Markdown
 
